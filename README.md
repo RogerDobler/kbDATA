@@ -1,1 +1,1 @@
-This is a test radme file. Detail will be added later on.
+This is a test readme file. Details will be added later on.
