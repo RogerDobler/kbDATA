@@ -1,0 +1,12 @@
+SINUS_MILIEU_ID;PE_DOMINANT_MILIEU;SINUS_MILIEU_CAT_DESCR;SINUS_MILIEU_SWISS_2020;SINUS_MILIEU_SWISS_2021;SORT_COLUMN
+ARI;01_ARI;Arrivierte;0.08;0.09;1
+PMA;02_PMA;Postmaterielle;0.12;0.13;2
+PER;03_PER;Performer;0.1;0.11;3
+GBU;07_GEB;Gehobene-Bürgerliche;0.16;0.16;4
+BUM;06_BUM;Bürgerliche Mitte;0.15;0.15;5
+PRA;05_PRA;Adaptiv-Pragmatische;0.06;0.06;6
+DIG;04_DIG;Digitale Kosmopoliten;0.07;0.08;7
+GET;08_GET;Genügsame Traditionelle;0.09;0.07;8
+KOB;09_KBA;Konsumorientierte Basis;0.08;0.07;9
+ESK;10_ESK;Eskapisten;0.09;0.09;10
+;;unbekannt;;;
